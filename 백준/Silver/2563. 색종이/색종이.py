@@ -23,7 +23,6 @@ for row in bg_paper:
             continue
         count_area += 1
 
-
 print(count_area)
 
 
